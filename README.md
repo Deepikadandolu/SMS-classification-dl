@@ -15,7 +15,6 @@ Deep learning-based SMS spam detection using TensorFlow and NLP preprocessing
 
 ## Files
 - `SMSClassificationDeeplearning.ipynb` — main notebook (Colab-compatible)
-- `spam.csv` — dataset 
 - `README.md` — this file
 
 
